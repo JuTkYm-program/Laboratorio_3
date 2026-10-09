@@ -1,0 +1,14 @@
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\bin\Debug\net10.0\Laboratorio3.exe
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\bin\Debug\net10.0\Laboratorio3.deps.json
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\bin\Debug\net10.0\Laboratorio3.runtimeconfig.json
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\bin\Debug\net10.0\Laboratorio3.dll
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\bin\Debug\net10.0\Laboratorio3.pdb
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.AssemblyInfoInputs.cache
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.AssemblyInfo.cs
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.dll
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\refint\Laboratorio3.dll
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.pdb
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\Laboratorio3.genruntimeconfig.cache
+C:\Users\pepe23\Desktop\Lab_3\Laboratorio3\obj\Debug\net10.0\ref\Laboratorio3.dll
